@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-langother
 Epoch:		1
-Version:	20131013
-Release:	9
+Version:	20170615
+Release:	1
 Summary:	Other languages
 Group:		Publishing
 URL:		http://tug.org/texlive
