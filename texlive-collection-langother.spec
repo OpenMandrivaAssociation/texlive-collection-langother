@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langother
 Epoch:		1
-Version:	20180224
+Version:	20180303
 Release:	1
 Summary:	Other languages
 Group:		Publishing
