@@ -1,7 +1,7 @@
 Name:		texlive-collection-langother
 Epoch:		1
 Version:	59564
-Release:	1
+Release:	2
 Summary:	Other languages
 Group:		Publishing
 URL:		http://tug.org/texlive
