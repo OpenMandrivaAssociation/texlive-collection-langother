@@ -1,6 +1,6 @@
 Name:		texlive-collection-langother
 Epoch:		1
-Version:	68719
+Version:	74620
 Release:	1
 Summary:	Other languages
 Group:		Publishing
