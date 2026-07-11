@@ -11,8 +11,6 @@ License:	LPPL
 Source0:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-langother.r%{tl_revision}.tar.xz
 BuildArch:	noarch
 BuildSystem:	texlive
-BuildRequires:	texlive-tlpkg
-%texlive_base_requires
 Requires:	texlive(aalok)
 Requires:	texlive(akshar)
 Requires:	texlive(amsldoc-vn)
